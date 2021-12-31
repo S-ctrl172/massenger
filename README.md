@@ -18,7 +18,7 @@ Socket.io is a JavaScript library. It is a way to communicate between a client a
 
 
 # Some code run for starting NodeJS project:-
-- Install nodemon :-The nodemon Module is a module that develop node.js based applications by automatically restarting the node application when file changes in the directory are detected. Nodemon does not require any change in the original code and method of development.
+Install nodemon :-The nodemon Module is a module that develop node.js based applications by automatically restarting the node application when file changes in the directory are detected. Nodemon does not require any change in the original code and method of development.
 
 ```gradle
 implementation '.npm install nodemon -D'
