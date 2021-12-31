@@ -24,14 +24,14 @@ Install nodemon :-The nodemon Module is a module that develop node.js based appl
 implementation '.npm install nodemon -D'
 ```
 
-# run dev:-Used for running the specific commands for serving the project, to any server, to live development. In the case of a web page, you'll see your web page in the browser, and any change you make to the HTML code, for example, will be reflected immediately in the page you see in your browser. prod: Compiles all the necessary files for production.
+run dev:-Used for running the specific commands for serving the project, to any server, to live development. In the case of a web page, you'll see your web page in the browser, and any change you make to the HTML code, for example, will be reflected immediately in the page you see in your browser. prod: Compiles all the necessary files for production.
 
 
 ```gradle
 implementation '.npm run install'
 ```
 
-#Install Socket.IO:-
+Install Socket.IO:-
 
 ```gradle
 implementation '.npm install Socket.io'
